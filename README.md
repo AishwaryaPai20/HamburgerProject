@@ -6,6 +6,6 @@ A simple hamburger menu that transforms into a full-screen menu snippet that can
 
 ### Languages Used
 
-<a href="https://img.shields.io/badge/JS-55.4%25-blue"><img src="https://img.shields.io/badge/JS-55.4%25-blue" /></a>
-<a href="https://img.shields.io/badge/CSS-22.8%25-brightgreen"><img src="https://img.shields.io/badge/CSS-22.8%25-brightgreen" /></a>
-<a href="https://img.shields.io/badge/HTML-21.8%25-red"><img src="https://img.shields.io/badge/HTML-21.8%25-red" /></a>
+<a href="https://img.shields.io/badge/CSS-67.4%25-brightgreen"><img src="https://img.shields.io/badge/CSS-67.4%25-brightgreen" /></a>
+<a href="https://img.shields.io/badge/HTML-29.2%25-red"><img src="https://img.shields.io/badge/HTML-29.2%25-red" /></a>
+<a href="https://img.shields.io/badge/JS-3.4%25-blue"><img src="https://img.shields.io/badge/JS-3.4%25-blue" /></a>
